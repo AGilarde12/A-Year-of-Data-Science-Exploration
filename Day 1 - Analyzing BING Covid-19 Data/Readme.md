@@ -4,5 +4,4 @@ To start the 365 Days of Data Challenge, I wanted to explore a dataset that was 
 Also, I'd like to write functions through python that would allow for updating data and visualization seamlessly
 
 ## Data Source
-https://bing.com/covid/local/unitedstates
-https://bing.com/covid/data
+Data Source: Bing Coronavirus Query set (https://github.com/microsoft/BingCoronavirusQuerySet)
