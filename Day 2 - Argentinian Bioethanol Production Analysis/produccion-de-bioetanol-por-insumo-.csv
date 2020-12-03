@@ -1,0 +1,30 @@
+﻿id_pais,nom_pais,año,mes,cod_unimed,nom_unimed,caña,maiz,total
+32,Argentina,2017,Enero,m3,metros cubicos,37794,46551,84345
+32,Argentina,2017,Febrero,m3,metros cubicos,35607,44489,80096
+32,Argentina,2017,Marzo,m3,metros cubicos,38696,44100,82796
+32,Argentina,2017,Abril,m3,metros cubicos,35355,45218,80573
+32,Argentina,2017,Mayo,m3,metros cubicos,44053,40222,84275
+32,Argentina,2017,Junio,m3,metros cubicos,51159,41800,92959
+32,Argentina,2017,Julio,m3,metros cubicos,53924,43396,97320
+32,Argentina,2017,Agosto,m3,metros cubicos,55711,48852,104563
+32,Argentina,2017,Septiembre,m3,metros cubicos,55345,47483,102828
+32,Argentina,2017,Octubre,m3,metros cubicos,60415,50850,111265
+32,Argentina,2017,Noviembre,m3,metros cubicos,48724,47841,96565
+32,Argentina,2017,Diciembre,m3,metros cubicos,36361,51160,87521
+32,Argentina,2018,Enero,m3,metros cubicos,33251,50443,83694
+32,Argentina,2018,Febrero,m3,metros cubicos,35328,45593,80921
+32,Argentina,2018,Marzo,m3,metros cubicos,17968,49519,67487
+32,Argentina,2018,Abril ,m3,metros cubicos,24522,50537,75059
+32,Argentina,2018,Mayo,m3,metros cubicos,38336,49606,87942
+32,Argentina,2018,Junio,m3,metros cubicos,57254,49484,106738
+32,Argentina,2018,Julio,m3,metros cubicos,60456,46815,107271
+32,Argentina,2018,Agosto,m3,metros cubicos,59362,47953,107315
+32,Argentina,2018,Septiembre,m3,metros cubicos,59862,46146,106008
+32,Argentina,2018,Octubre,m3,metros cubicos,54597,48608,103205
+32,Argentina,2018,Noviembre,m3,metros cubicos,49554,48981,98535
+32,Argentina,2018,Diciembre,m3,metros cubicos,37673,51933,89606
+32,Argentina,2019,Enero,m3,metros cubicos,30505,39815,70320
+32,Argentina,2019,Febrero,m3,metros cubicos,26711,41685,68396
+32,Argentina,2019,Marzo,m3,metros cubicos,28898,47939,76837
+32,Argentina,2019,Abril,m3,metros cubicos,17289,49952,67241
+32,Argentina,2019,Mayo,m3,metros cubicos,37316,47848,85164
